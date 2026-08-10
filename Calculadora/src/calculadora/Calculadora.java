@@ -47,7 +47,7 @@ public class Calculadora {
             }
             case 3 ->{
                 resultado2 = (double)numero1 / numero2;
-                System.out.printf("El resultado de la resta es %.2f\n", resultado2);
+                System.out.printf("El resultado de la division es %.2f\n", resultado2);
             }
             case 4->{
                 resultado = numero1 * numero2;
